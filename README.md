@@ -1,3 +1,3 @@
-# Git_course
+# Git_Course
 elzero
 ##project Notes
